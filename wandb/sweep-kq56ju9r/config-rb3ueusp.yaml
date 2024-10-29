@@ -1,0 +1,12 @@
+wandb_version: 1
+
+batch_size:
+  value: 16
+epochs:
+  value: 50
+learning_rate:
+  value: 0.01
+model_name:
+  value: EfficientNet_V2_M
+optimizer:
+  value: sgd

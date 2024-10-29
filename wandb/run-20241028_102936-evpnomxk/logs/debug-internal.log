@@ -1,0 +1,20 @@
+{"time":"2024-10-28T10:29:36.071082141Z","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-10-28T10:29:36.071100013Z","level":"INFO","msg":"created symlink","path":"/home/jovyan/wandb/run-20241028_102936-evpnomxk/logs/debug-core.log"}
+{"time":"2024-10-28T10:29:36.173623886Z","level":"INFO","msg":"created new stream","id":"evpnomxk"}
+{"time":"2024-10-28T10:29:36.173665865Z","level":"INFO","msg":"stream: started","id":"evpnomxk"}
+{"time":"2024-10-28T10:29:36.173743398Z","level":"INFO","msg":"sender: started","stream_id":"evpnomxk"}
+{"time":"2024-10-28T10:29:36.17379147Z","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"evpnomxk"}}
+{"time":"2024-10-28T10:29:36.173963415Z","level":"INFO","msg":"handler: started","stream_id":{"value":"evpnomxk"}}
+{"time":"2024-10-28T10:29:36.450247926Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-28T11:04:58.266016979Z","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-28T11:04:58.266509289Z","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-28T11:04:58.968362753Z","level":"WARN","msg":"No job ingredients found, not creating job artifact"}
+{"time":"2024-10-28T11:04:58.968383093Z","level":"WARN","msg":"No source type found, not creating job artifact"}
+{"time":"2024-10-28T11:04:58.968387527Z","level":"INFO","msg":"sender: sendDefer: no job artifact to save"}
+{"time":"2024-10-28T11:04:59.266574488Z","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.259667643,"progress":"323B/323B"},{"desc":"uploading config.yaml","runtime_seconds":0.034753129,"progress":"654B/654B"},{"desc":"uploading output.log","runtime_seconds":0.03474476,"progress":"15.1KB/15.1KB"}],"total_operations":3}}
+{"time":"2024-10-28T11:04:59.5172961Z","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-10-28T11:05:00.797759068Z","level":"INFO","msg":"stream: closing","id":"evpnomxk"}
+{"time":"2024-10-28T11:05:00.797780022Z","level":"INFO","msg":"handler: closed","stream_id":{"value":"evpnomxk"}}
+{"time":"2024-10-28T11:05:00.797802154Z","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"evpnomxk"}}
+{"time":"2024-10-28T11:05:00.797866042Z","level":"INFO","msg":"sender: closed","stream_id":"evpnomxk"}
+{"time":"2024-10-28T11:05:00.797876485Z","level":"INFO","msg":"stream: closed","id":"evpnomxk"}

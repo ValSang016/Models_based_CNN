@@ -1,0 +1,20 @@
+{"time":"2024-10-28T09:52:45.102232553Z","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-10-28T09:52:45.102246065Z","level":"INFO","msg":"created symlink","path":"/home/jovyan/wandb/run-20241028_095242-n8tz8qrc/logs/debug-core.log"}
+{"time":"2024-10-28T09:52:45.203684559Z","level":"INFO","msg":"created new stream","id":"n8tz8qrc"}
+{"time":"2024-10-28T09:52:45.203705478Z","level":"INFO","msg":"stream: started","id":"n8tz8qrc"}
+{"time":"2024-10-28T09:52:45.203738808Z","level":"INFO","msg":"handler: started","stream_id":{"value":"n8tz8qrc"}}
+{"time":"2024-10-28T09:52:45.203763779Z","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"n8tz8qrc"}}
+{"time":"2024-10-28T09:52:45.203844432Z","level":"INFO","msg":"sender: started","stream_id":"n8tz8qrc"}
+{"time":"2024-10-28T09:52:45.473855277Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-28T09:53:35.823883827Z","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-28T09:53:35.824429098Z","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-28T09:53:36.241367622Z","level":"WARN","msg":"No job ingredients found, not creating job artifact"}
+{"time":"2024-10-28T09:53:36.241380965Z","level":"WARN","msg":"No source type found, not creating job artifact"}
+{"time":"2024-10-28T09:53:36.241385473Z","level":"INFO","msg":"sender: sendDefer: no job artifact to save"}
+{"time":"2024-10-28T09:53:36.813731279Z","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-10-28T09:53:36.824290657Z","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading summary, console logs","runtime_seconds":0.010446058}],"total_operations":1}}
+{"time":"2024-10-28T09:53:38.069804Z","level":"INFO","msg":"stream: closing","id":"n8tz8qrc"}
+{"time":"2024-10-28T09:53:38.069829714Z","level":"INFO","msg":"handler: closed","stream_id":{"value":"n8tz8qrc"}}
+{"time":"2024-10-28T09:53:38.069845297Z","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"n8tz8qrc"}}
+{"time":"2024-10-28T09:53:38.069891463Z","level":"INFO","msg":"sender: closed","stream_id":"n8tz8qrc"}
+{"time":"2024-10-28T09:53:38.069935154Z","level":"INFO","msg":"stream: closed","id":"n8tz8qrc"}

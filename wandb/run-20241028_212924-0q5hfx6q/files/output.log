@@ -1,0 +1,218 @@
+Epoch: 0, Batch: 0, Loss: 4.2892
+Epoch: 0, Batch: 10, Loss: 3.7901
+Epoch: 0, Batch: 20, Loss: 3.2256
+Epoch: 0, Batch: 30, Loss: 2.8755
+Epoch: 0, Batch: 40, Loss: 2.6705
+Epoch: 0, Batch: 50, Loss: 2.4803
+Epoch: 0, Batch: 60, Loss: 1.8798
+Epoch: 0, Batch: 70, Loss: 1.8255
+Validation Loss: 2.1939, Accuracy: 45.9459
+Epoch: 1, Batch: 0, Loss: 2.0551
+Epoch: 1, Batch: 10, Loss: 1.2452
+Epoch: 1, Batch: 20, Loss: 1.5439
+Epoch: 1, Batch: 30, Loss: 1.6215
+Epoch: 1, Batch: 40, Loss: 1.1767
+Epoch: 1, Batch: 50, Loss: 1.4481
+Epoch: 1, Batch: 60, Loss: 0.9805
+Epoch: 1, Batch: 70, Loss: 0.9792
+Validation Loss: 1.5808, Accuracy: 57.4324
+Epoch: 2, Batch: 0, Loss: 0.6830
+Epoch: 2, Batch: 10, Loss: 0.7258
+Epoch: 2, Batch: 20, Loss: 0.8721
+Epoch: 2, Batch: 30, Loss: 0.6044
+Epoch: 2, Batch: 40, Loss: 0.4510
+Epoch: 2, Batch: 50, Loss: 0.3568
+Epoch: 2, Batch: 60, Loss: 1.0671
+Epoch: 2, Batch: 70, Loss: 0.7987
+Validation Loss: 1.4481, Accuracy: 60.8108
+Epoch: 3, Batch: 0, Loss: 0.2783
+Epoch: 3, Batch: 10, Loss: 0.4084
+Epoch: 3, Batch: 20, Loss: 0.4328
+Epoch: 3, Batch: 30, Loss: 0.4108
+Epoch: 3, Batch: 40, Loss: 0.2360
+Epoch: 3, Batch: 50, Loss: 0.4569
+Epoch: 3, Batch: 60, Loss: 0.2089
+Epoch: 3, Batch: 70, Loss: 0.3028
+Validation Loss: 0.9391, Accuracy: 76.3514
+Epoch: 4, Batch: 0, Loss: 0.2953
+Epoch: 4, Batch: 10, Loss: 0.2462
+Epoch: 4, Batch: 20, Loss: 0.2403
+Epoch: 4, Batch: 30, Loss: 0.2570
+Epoch: 4, Batch: 40, Loss: 0.3905
+Epoch: 4, Batch: 50, Loss: 0.0958
+Epoch: 4, Batch: 60, Loss: 0.2288
+Epoch: 4, Batch: 70, Loss: 0.1631
+Validation Loss: 1.0332, Accuracy: 70.2703
+Epoch: 5, Batch: 0, Loss: 0.0903
+Epoch: 5, Batch: 10, Loss: 0.2083
+Epoch: 5, Batch: 20, Loss: 0.1492
+Epoch: 5, Batch: 30, Loss: 0.0973
+Epoch: 5, Batch: 40, Loss: 0.2230
+Epoch: 5, Batch: 50, Loss: 0.2411
+Epoch: 5, Batch: 60, Loss: 0.1434
+Epoch: 5, Batch: 70, Loss: 0.1265
+Validation Loss: 0.8263, Accuracy: 75.3378
+Epoch: 6, Batch: 0, Loss: 0.0568
+Epoch: 6, Batch: 10, Loss: 0.1200
+Epoch: 6, Batch: 20, Loss: 0.0362
+Epoch: 6, Batch: 30, Loss: 0.0491
+Epoch: 6, Batch: 40, Loss: 0.0507
+Epoch: 6, Batch: 50, Loss: 0.0961
+Epoch: 6, Batch: 60, Loss: 0.0739
+Epoch: 6, Batch: 70, Loss: 0.0180
+Validation Loss: 0.8255, Accuracy: 79.3919
+Epoch: 7, Batch: 0, Loss: 0.0234
+Epoch: 7, Batch: 10, Loss: 0.0111
+Epoch: 7, Batch: 20, Loss: 0.0164
+Epoch: 7, Batch: 30, Loss: 0.0115
+Epoch: 7, Batch: 40, Loss: 0.0178
+Epoch: 7, Batch: 50, Loss: 0.0158
+Epoch: 7, Batch: 60, Loss: 0.0083
+Epoch: 7, Batch: 70, Loss: 0.0091
+Validation Loss: 0.4890, Accuracy: 88.8514
+Epoch: 8, Batch: 0, Loss: 0.0082
+Epoch: 8, Batch: 10, Loss: 0.0063
+Epoch: 8, Batch: 20, Loss: 0.0810
+Epoch: 8, Batch: 30, Loss: 0.0101
+Epoch: 8, Batch: 40, Loss: 0.0131
+Epoch: 8, Batch: 50, Loss: 0.0104
+Epoch: 8, Batch: 60, Loss: 0.0044
+Epoch: 8, Batch: 70, Loss: 0.0051
+Validation Loss: 0.5192, Accuracy: 87.8378
+Epoch: 9, Batch: 0, Loss: 0.0020
+Epoch: 9, Batch: 10, Loss: 0.0079
+Epoch: 9, Batch: 20, Loss: 0.0045
+Epoch: 9, Batch: 30, Loss: 0.0028
+Epoch: 9, Batch: 40, Loss: 0.0034
+Epoch: 9, Batch: 50, Loss: 0.0040
+Epoch: 9, Batch: 60, Loss: 0.0087
+Epoch: 9, Batch: 70, Loss: 0.0026
+Validation Loss: 0.5121, Accuracy: 87.1622
+Epoch: 10, Batch: 0, Loss: 0.0019
+Epoch: 10, Batch: 10, Loss: 0.0024
+Epoch: 10, Batch: 20, Loss: 0.0018
+Epoch: 10, Batch: 30, Loss: 0.0045
+Epoch: 10, Batch: 40, Loss: 0.0019
+Epoch: 10, Batch: 50, Loss: 0.0020
+Epoch: 10, Batch: 60, Loss: 0.0010
+Epoch: 10, Batch: 70, Loss: 0.0038
+Validation Loss: 0.4568, Accuracy: 89.5270
+Epoch: 11, Batch: 0, Loss: 0.0015
+Epoch: 11, Batch: 10, Loss: 0.0015
+Epoch: 11, Batch: 20, Loss: 0.0015
+Epoch: 11, Batch: 30, Loss: 0.0017
+Epoch: 11, Batch: 40, Loss: 0.0021
+Epoch: 11, Batch: 50, Loss: 0.0011
+Epoch: 11, Batch: 60, Loss: 0.0021
+Epoch: 11, Batch: 70, Loss: 0.0012
+Validation Loss: 0.4541, Accuracy: 90.8784
+Epoch: 12, Batch: 0, Loss: 0.0012
+Epoch: 12, Batch: 10, Loss: 0.0012
+Epoch: 12, Batch: 20, Loss: 0.0009
+Epoch: 12, Batch: 30, Loss: 0.0016
+Epoch: 12, Batch: 40, Loss: 0.0028
+Epoch: 12, Batch: 50, Loss: 0.0007
+Epoch: 12, Batch: 60, Loss: 0.0008
+Epoch: 12, Batch: 70, Loss: 0.0012
+Validation Loss: 0.4530, Accuracy: 89.5270
+Epoch: 13, Batch: 0, Loss: 0.0024
+Epoch: 13, Batch: 10, Loss: 0.0013
+Epoch: 13, Batch: 20, Loss: 0.0011
+Epoch: 13, Batch: 30, Loss: 0.0017
+Epoch: 13, Batch: 40, Loss: 0.0014
+Epoch: 13, Batch: 50, Loss: 0.0010
+Epoch: 13, Batch: 60, Loss: 0.0017
+Epoch: 13, Batch: 70, Loss: 0.0010
+Validation Loss: 0.4577, Accuracy: 89.8649
+Epoch: 14, Batch: 0, Loss: 0.0017
+Epoch: 14, Batch: 10, Loss: 0.0014
+Epoch: 14, Batch: 20, Loss: 0.0011
+Epoch: 14, Batch: 30, Loss: 0.0011
+Epoch: 14, Batch: 40, Loss: 0.0007
+Epoch: 14, Batch: 50, Loss: 0.0008
+Epoch: 14, Batch: 60, Loss: 0.0007
+Epoch: 14, Batch: 70, Loss: 0.0007
+Validation Loss: 0.4435, Accuracy: 90.5405
+Epoch: 15, Batch: 0, Loss: 0.0015
+Epoch: 15, Batch: 10, Loss: 0.0005
+Epoch: 15, Batch: 20, Loss: 0.0010
+Epoch: 15, Batch: 30, Loss: 0.0006
+Epoch: 15, Batch: 40, Loss: 0.0006
+Epoch: 15, Batch: 50, Loss: 0.0007
+Epoch: 15, Batch: 60, Loss: 0.0012
+Epoch: 15, Batch: 70, Loss: 0.0004
+Validation Loss: 0.4422, Accuracy: 91.5541
+Epoch: 16, Batch: 0, Loss: 0.0006
+Epoch: 16, Batch: 10, Loss: 0.0014
+Epoch: 16, Batch: 20, Loss: 0.0005
+Epoch: 16, Batch: 30, Loss: 0.0005
+Epoch: 16, Batch: 40, Loss: 0.0009
+Epoch: 16, Batch: 50, Loss: 0.0007
+Epoch: 16, Batch: 60, Loss: 0.0011
+Epoch: 16, Batch: 70, Loss: 0.0006
+Validation Loss: 0.4346, Accuracy: 90.8784
+Epoch: 17, Batch: 0, Loss: 0.0005
+Epoch: 17, Batch: 10, Loss: 0.0016
+Epoch: 17, Batch: 20, Loss: 0.0007
+Epoch: 17, Batch: 30, Loss: 0.0008
+Epoch: 17, Batch: 40, Loss: 0.0009
+Epoch: 17, Batch: 50, Loss: 0.0004
+Epoch: 17, Batch: 60, Loss: 0.0016
+Epoch: 17, Batch: 70, Loss: 0.0006
+Validation Loss: 0.4225, Accuracy: 91.5541
+Epoch: 18, Batch: 0, Loss: 0.0004
+Epoch: 18, Batch: 10, Loss: 0.0006
+Epoch: 18, Batch: 20, Loss: 0.0008
+Epoch: 18, Batch: 30, Loss: 0.0008
+Epoch: 18, Batch: 40, Loss: 0.0007
+Epoch: 18, Batch: 50, Loss: 0.0005
+Epoch: 18, Batch: 60, Loss: 0.0008
+Epoch: 18, Batch: 70, Loss: 0.0004
+Validation Loss: 0.4380, Accuracy: 91.2162
+Epoch: 19, Batch: 0, Loss: 0.0004
+Epoch: 19, Batch: 10, Loss: 0.0008
+Epoch: 19, Batch: 20, Loss: 0.0004
+Epoch: 19, Batch: 30, Loss: 0.0005
+Epoch: 19, Batch: 40, Loss: 0.0004
+Epoch: 19, Batch: 50, Loss: 0.0016
+Epoch: 19, Batch: 60, Loss: 0.0009
+Epoch: 19, Batch: 70, Loss: 0.0006
+Validation Loss: 0.4372, Accuracy: 91.2162
+Epoch: 20, Batch: 0, Loss: 0.0004
+Epoch: 20, Batch: 10, Loss: 0.0005
+Epoch: 20, Batch: 20, Loss: 0.0004
+Epoch: 20, Batch: 30, Loss: 0.0003
+Epoch: 20, Batch: 40, Loss: 0.0004
+Epoch: 20, Batch: 50, Loss: 0.0003
+Epoch: 20, Batch: 60, Loss: 0.0006
+Epoch: 20, Batch: 70, Loss: 0.0008
+Validation Loss: 0.4376, Accuracy: 89.8649
+Epoch: 21, Batch: 0, Loss: 0.0007
+Epoch: 21, Batch: 10, Loss: 0.0004
+Epoch: 21, Batch: 20, Loss: 0.0004
+Epoch: 21, Batch: 30, Loss: 0.0002
+Epoch: 21, Batch: 40, Loss: 0.0004
+Epoch: 21, Batch: 50, Loss: 0.0003
+Epoch: 21, Batch: 60, Loss: 0.0005
+Epoch: 21, Batch: 70, Loss: 0.0005
+Validation Loss: 0.4312, Accuracy: 90.5405
+Epoch: 22, Batch: 0, Loss: 0.0009
+Epoch: 22, Batch: 10, Loss: 0.0009
+Epoch: 22, Batch: 20, Loss: 0.0006
+Epoch: 22, Batch: 30, Loss: 0.0005
+Epoch: 22, Batch: 40, Loss: 0.0005
+Epoch: 22, Batch: 50, Loss: 0.0005
+Epoch: 22, Batch: 60, Loss: 0.0005
+Epoch: 22, Batch: 70, Loss: 0.0005
+Validation Loss: 0.4269, Accuracy: 90.5405
+Epoch: 23, Batch: 0, Loss: 0.0003
+Epoch: 23, Batch: 10, Loss: 0.0005
+Epoch: 23, Batch: 20, Loss: 0.0004
+Epoch: 23, Batch: 30, Loss: 0.0007
+Epoch: 23, Batch: 40, Loss: 0.0005
+Epoch: 23, Batch: 50, Loss: 0.0003
+Epoch: 23, Batch: 60, Loss: 0.0004
+Epoch: 23, Batch: 70, Loss: 0.0004
+Validation Loss: 0.4310, Accuracy: 91.2162
+Early stopping triggered after 24 epochs.
+[FINAL] Test Loss: 0.3710, Accuracy: 90.6040

@@ -1,0 +1,20 @@
+{"time":"2024-10-28T21:55:00.785915779Z","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-10-28T21:55:00.785928073Z","level":"INFO","msg":"created symlink","path":"/home/jovyan/wandb/run-20241028_215500-zeykivc3/logs/debug-core.log"}
+{"time":"2024-10-28T21:55:00.888206299Z","level":"INFO","msg":"created new stream","id":"zeykivc3"}
+{"time":"2024-10-28T21:55:00.888231609Z","level":"INFO","msg":"stream: started","id":"zeykivc3"}
+{"time":"2024-10-28T21:55:00.888284031Z","level":"INFO","msg":"handler: started","stream_id":{"value":"zeykivc3"}}
+{"time":"2024-10-28T21:55:00.888357866Z","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"zeykivc3"}}
+{"time":"2024-10-28T21:55:00.888412048Z","level":"INFO","msg":"sender: started","stream_id":"zeykivc3"}
+{"time":"2024-10-28T21:55:01.450005567Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-28T22:10:36.635759254Z","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-28T22:10:36.636233732Z","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-28T22:10:37.053635585Z","level":"WARN","msg":"No job ingredients found, not creating job artifact"}
+{"time":"2024-10-28T22:10:37.053651049Z","level":"WARN","msg":"No source type found, not creating job artifact"}
+{"time":"2024-10-28T22:10:37.053655926Z","level":"INFO","msg":"sender: sendDefer: no job artifact to save"}
+{"time":"2024-10-28T22:10:37.636319197Z","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading config.yaml","runtime_seconds":0.337847717,"progress":"656B/656B"},{"desc":"uploading output.log","runtime_seconds":0.337838434,"progress":"6.6KB/6.6KB"}],"total_operations":2}}
+{"time":"2024-10-28T22:10:38.018572713Z","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-10-28T22:10:39.278410723Z","level":"INFO","msg":"stream: closing","id":"zeykivc3"}
+{"time":"2024-10-28T22:10:39.278431022Z","level":"INFO","msg":"handler: closed","stream_id":{"value":"zeykivc3"}}
+{"time":"2024-10-28T22:10:39.278447248Z","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"zeykivc3"}}
+{"time":"2024-10-28T22:10:39.278454672Z","level":"INFO","msg":"sender: closed","stream_id":"zeykivc3"}
+{"time":"2024-10-28T22:10:39.2784961Z","level":"INFO","msg":"stream: closed","id":"zeykivc3"}

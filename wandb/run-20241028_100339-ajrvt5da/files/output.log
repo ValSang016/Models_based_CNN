@@ -1,0 +1,5 @@
+Create sweep with ID: yurxod8t
+Sweep URL: https://wandb.ai/gachon-university-fdslab/resnet18/sweeps/yurxod8t
+Create sweep with ID: ow2ambg7
+Sweep URL: https://wandb.ai/gachon-university-fdslab/resnet18/sweeps/ow2ambg7
+[34m[1mwandb[0m: [33mWARNING[0m Calling wandb.login() after wandb.init() has no effect.

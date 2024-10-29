@@ -1,0 +1,27 @@
+{"time":"2024-10-28T10:03:39.319150745Z","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-10-28T10:03:39.319163504Z","level":"INFO","msg":"created symlink","path":"/home/jovyan/wandb/run-20241028_100339-ajrvt5da/logs/debug-core.log"}
+{"time":"2024-10-28T10:03:39.421652646Z","level":"INFO","msg":"created new stream","id":"ajrvt5da"}
+{"time":"2024-10-28T10:03:39.421676844Z","level":"INFO","msg":"stream: started","id":"ajrvt5da"}
+{"time":"2024-10-28T10:03:39.422688218Z","level":"INFO","msg":"handler: started","stream_id":{"value":"ajrvt5da"}}
+{"time":"2024-10-28T10:03:39.422751131Z","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"ajrvt5da"}}
+{"time":"2024-10-28T10:03:39.422873388Z","level":"INFO","msg":"sender: started","stream_id":"ajrvt5da"}
+{"time":"2024-10-28T10:03:39.707263933Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-28T10:03:39.879708828Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-28T10:03:42.413599658Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-28T10:03:42.415149931Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-28T10:03:45.583899728Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-28T10:03:46.005018101Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-28T10:04:59.678041659Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-28T10:05:00.162371207Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-28T10:05:05.028932877Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-28T10:05:05.635144266Z","level":"INFO","msg":"stream: closing","id":"ajrvt5da"}
+{"time":"2024-10-28T10:05:05.635169042Z","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-28T10:05:05.635610965Z","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-28T10:05:05.917914537Z","level":"WARN","msg":"No job ingredients found, not creating job artifact"}
+{"time":"2024-10-28T10:05:05.917928675Z","level":"WARN","msg":"No source type found, not creating job artifact"}
+{"time":"2024-10-28T10:05:05.917933773Z","level":"INFO","msg":"sender: sendDefer: no job artifact to save"}
+{"time":"2024-10-28T10:05:06.435391275Z","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-10-28T10:05:06.687473333Z","level":"INFO","msg":"handler: closed","stream_id":{"value":"ajrvt5da"}}
+{"time":"2024-10-28T10:05:06.687510641Z","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"ajrvt5da"}}
+{"time":"2024-10-28T10:05:06.687535237Z","level":"INFO","msg":"sender: closed","stream_id":"ajrvt5da"}
+{"time":"2024-10-28T10:05:06.687561225Z","level":"INFO","msg":"stream: closed","id":"ajrvt5da"}

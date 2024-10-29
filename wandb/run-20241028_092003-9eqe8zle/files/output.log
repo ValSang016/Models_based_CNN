@@ -1,0 +1,9 @@
+Train Epoch : 0 [0/295]	Loss:  3.873044
+Train Epoch : 0 [10/295]	Loss:  4.206115
+Train Epoch : 0 [20/295]	Loss:  4.246481
+fc.weight
+True
+fc.bias
+True
+Created a learning model and optimizer
+Created a learning model and optimizer

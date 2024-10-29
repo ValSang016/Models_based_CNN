@@ -1,0 +1,20 @@
+{"time":"2024-10-28T11:05:05.564368379Z","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-10-28T11:05:05.564382263Z","level":"INFO","msg":"created symlink","path":"/home/jovyan/wandb/run-20241028_110505-cqlxyaoa/logs/debug-core.log"}
+{"time":"2024-10-28T11:05:05.666482611Z","level":"INFO","msg":"created new stream","id":"cqlxyaoa"}
+{"time":"2024-10-28T11:05:05.666511931Z","level":"INFO","msg":"stream: started","id":"cqlxyaoa"}
+{"time":"2024-10-28T11:05:05.667547624Z","level":"INFO","msg":"handler: started","stream_id":{"value":"cqlxyaoa"}}
+{"time":"2024-10-28T11:05:05.667610596Z","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"cqlxyaoa"}}
+{"time":"2024-10-28T11:05:05.667737093Z","level":"INFO","msg":"sender: started","stream_id":"cqlxyaoa"}
+{"time":"2024-10-28T11:05:05.932917263Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-28T11:42:02.602834928Z","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-28T11:42:02.603214655Z","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-28T11:42:03.027739696Z","level":"WARN","msg":"No job ingredients found, not creating job artifact"}
+{"time":"2024-10-28T11:42:03.027755728Z","level":"WARN","msg":"No source type found, not creating job artifact"}
+{"time":"2024-10-28T11:42:03.027760207Z","level":"INFO","msg":"sender: sendDefer: no job artifact to save"}
+{"time":"2024-10-28T11:42:03.60333115Z","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.545730212,"progress":"320B/320B"},{"desc":"uploading config.yaml","runtime_seconds":0.335051191,"progress":"651B/651B"},{"desc":"uploading output.log","runtime_seconds":0.33504078,"progress":"15.7KB/15.7KB"}],"total_operations":3}}
+{"time":"2024-10-28T11:42:04.085860231Z","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-10-28T11:42:05.32762463Z","level":"INFO","msg":"stream: closing","id":"cqlxyaoa"}
+{"time":"2024-10-28T11:42:05.327637951Z","level":"INFO","msg":"handler: closed","stream_id":{"value":"cqlxyaoa"}}
+{"time":"2024-10-28T11:42:05.327652835Z","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"cqlxyaoa"}}
+{"time":"2024-10-28T11:42:05.327693718Z","level":"INFO","msg":"sender: closed","stream_id":"cqlxyaoa"}
+{"time":"2024-10-28T11:42:05.327700559Z","level":"INFO","msg":"stream: closed","id":"cqlxyaoa"}

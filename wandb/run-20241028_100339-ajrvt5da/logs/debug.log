@@ -1,0 +1,271 @@
+2024-10-28 10:03:39,315 INFO    MainThread:900 [wandb_setup.py:_flush():79] Current SDK version is 0.18.5
+2024-10-28 10:03:39,315 INFO    MainThread:900 [wandb_setup.py:_flush():79] Configure stats pid to 900
+2024-10-28 10:03:39,315 INFO    MainThread:900 [wandb_setup.py:_flush():79] Loading settings from /home/jovyan/.config/wandb/settings
+2024-10-28 10:03:39,315 INFO    MainThread:900 [wandb_setup.py:_flush():79] Loading settings from /home/jovyan/wandb/settings
+2024-10-28 10:03:39,315 INFO    MainThread:900 [wandb_setup.py:_flush():79] Loading settings from environment variables: {}
+2024-10-28 10:03:39,315 INFO    MainThread:900 [wandb_setup.py:_flush():79] Applying setup settings: {'mode': None, '_disable_service': None}
+2024-10-28 10:03:39,315 INFO    MainThread:900 [wandb_setup.py:_flush():79] Inferring run settings from compute environment: {'program': '<python with no main file>'}
+2024-10-28 10:03:39,315 INFO    MainThread:900 [wandb_setup.py:_flush():79] Applying login settings: {}
+2024-10-28 10:03:39,315 INFO    MainThread:900 [wandb_init.py:_log_setup():534] Logging user logs to /home/jovyan/wandb/run-20241028_100339-ajrvt5da/logs/debug.log
+2024-10-28 10:03:39,315 INFO    MainThread:900 [wandb_init.py:_log_setup():535] Logging internal logs to /home/jovyan/wandb/run-20241028_100339-ajrvt5da/logs/debug-internal.log
+2024-10-28 10:03:39,315 INFO    MainThread:900 [wandb_init.py:_jupyter_setup():480] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x7fde22342bb0>
+2024-10-28 10:03:39,316 INFO    MainThread:900 [wandb_init.py:init():621] calling init triggers
+2024-10-28 10:03:39,316 INFO    MainThread:900 [wandb_init.py:init():628] wandb.init called with sweep_config: {}
+config: {}
+2024-10-28 10:03:39,316 INFO    MainThread:900 [wandb_init.py:init():671] starting backend
+2024-10-28 10:03:39,316 INFO    MainThread:900 [wandb_init.py:init():675] sending inform_init request
+2024-10-28 10:03:39,317 INFO    MainThread:900 [backend.py:_multiprocessing_setup():104] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2024-10-28 10:03:39,318 INFO    MainThread:900 [wandb_init.py:init():688] backend started and connected
+2024-10-28 10:03:39,326 INFO    MainThread:900 [wandb_run.py:_label_probe_notebook():1342] probe notebook
+2024-10-28 10:03:39,338 INFO    MainThread:900 [wandb_init.py:init():783] updated telemetry
+2024-10-28 10:03:39,366 INFO    MainThread:900 [wandb_init.py:init():816] communicating run to backend with 90.0 second timeout
+2024-10-28 10:03:39,703 INFO    MainThread:900 [wandb_init.py:init():867] starting run threads in backend
+2024-10-28 10:03:39,876 INFO    MainThread:900 [wandb_run.py:_console_start():2463] atexit reg
+2024-10-28 10:03:39,876 INFO    MainThread:900 [wandb_run.py:_redirect():2311] redirect: wrap_raw
+2024-10-28 10:03:39,876 INFO    MainThread:900 [wandb_run.py:_redirect():2376] Wrapping output streams.
+2024-10-28 10:03:39,877 INFO    MainThread:900 [wandb_run.py:_redirect():2401] Redirects installed.
+2024-10-28 10:03:39,878 INFO    MainThread:900 [wandb_init.py:init():911] run started, returning control to user process
+2024-10-28 10:03:39,879 INFO    MainThread:900 [jupyter.py:save_ipynb():387] not saving jupyter notebook
+2024-10-28 10:03:39,879 INFO    MainThread:900 [wandb_init.py:_pause_backend():445] pausing backend
+2024-10-28 10:03:42,413 INFO    MainThread:900 [wandb_init.py:_resume_backend():450] resuming backend
+2024-10-28 10:03:42,414 INFO    MainThread:900 [jupyter.py:save_ipynb():387] not saving jupyter notebook
+2024-10-28 10:03:42,414 INFO    MainThread:900 [wandb_init.py:_pause_backend():445] pausing backend
+2024-10-28 10:03:45,583 INFO    MainThread:900 [wandb_init.py:_resume_backend():450] resuming backend
+2024-10-28 10:03:46,004 INFO    MainThread:900 [jupyter.py:save_ipynb():387] not saving jupyter notebook
+2024-10-28 10:03:46,004 INFO    MainThread:900 [wandb_init.py:_pause_backend():445] pausing backend
+2024-10-28 10:04:59,677 INFO    MainThread:900 [wandb_init.py:_resume_backend():450] resuming backend
+2024-10-28 10:05:00,162 INFO    MainThread:900 [jupyter.py:save_ipynb():387] not saving jupyter notebook
+2024-10-28 10:05:00,162 INFO    MainThread:900 [wandb_init.py:_pause_backend():445] pausing backend
+2024-10-28 10:05:05,028 INFO    MainThread:900 [wandb_init.py:_resume_backend():450] resuming backend
+2024-10-28 10:05:05,031 INFO    MainThread:900 [pyagent.py:run():322] Starting sweep agent: entity=None, project=None, count=None
+2024-10-28 10:05:05,635 WARNING MsgRouterThr:900 [router.py:message_loop():77] message_loop has been closed
+2024-10-28 10:05:07,354 INFO    Thread-7  :900 [wandb_setup.py:_flush():79] Current SDK version is 0.18.5
+2024-10-28 10:05:07,354 INFO    Thread-7  :900 [wandb_setup.py:_flush():79] Configure stats pid to 900
+2024-10-28 10:05:07,354 INFO    Thread-7  :900 [wandb_setup.py:_flush():79] Loading settings from /home/jovyan/.config/wandb/settings
+2024-10-28 10:05:07,354 INFO    Thread-7  :900 [wandb_setup.py:_flush():79] Loading settings from /home/jovyan/wandb/settings
+2024-10-28 10:05:07,354 INFO    Thread-7  :900 [wandb_setup.py:_flush():79] Loading settings from environment variables: {'project': 'resnet18', 'entity': 'gachon-university-fdslab', 'root_dir': '/home/jovyan', 'sweep_id': 'ow2ambg7', 'run_id': 'aacxqlr2', 'sweep_param_path': '/home/jovyan/wandb/sweep-ow2ambg7/config-aacxqlr2.yaml'}
+2024-10-28 10:05:07,354 INFO    Thread-7  :900 [wandb_setup.py:_flush():79] Applying setup settings: {'mode': None, '_disable_service': None}
+2024-10-28 10:05:07,354 INFO    Thread-7  :900 [wandb_setup.py:_flush():79] Inferring run settings from compute environment: {'program': '<python with no main file>'}
+2024-10-28 10:05:07,354 INFO    Thread-7  :900 [wandb_init.py:_log_setup():534] Logging user logs to /home/jovyan/wandb/run-20241028_100507-aacxqlr2/logs/debug.log
+2024-10-28 10:05:07,354 INFO    Thread-7  :900 [wandb_init.py:_log_setup():535] Logging internal logs to /home/jovyan/wandb/run-20241028_100507-aacxqlr2/logs/debug-internal.log
+2024-10-28 10:05:07,354 INFO    Thread-7  :900 [wandb_init.py:init():621] calling init triggers
+2024-10-28 10:05:07,354 INFO    Thread-7  :900 [wandb_init.py:init():628] wandb.init called with sweep_config: {'batch_size': 16, 'epochs': 50, 'learning_rate': 0.01, 'optimizer': 'sgd'}
+config: {}
+2024-10-28 10:05:07,354 INFO    Thread-7  :900 [wandb_init.py:init():671] starting backend
+2024-10-28 10:05:07,354 INFO    Thread-7  :900 [wandb_init.py:init():675] sending inform_init request
+2024-10-28 10:05:07,359 INFO    Thread-7  :900 [backend.py:_multiprocessing_setup():104] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2024-10-28 10:05:07,359 INFO    Thread-7  :900 [wandb_init.py:init():688] backend started and connected
+2024-10-28 10:05:07,372 INFO    Thread-7  :900 [wandb_run.py:_config_callback():1390] config_cb None None {'batch_size': 16, 'epochs': 50, 'learning_rate': 0.01, 'optimizer': 'sgd'}
+2024-10-28 10:05:07,374 INFO    Thread-7  :900 [wandb_run.py:_label_probe_notebook():1342] probe notebook
+2024-10-28 10:05:07,385 INFO    Thread-7  :900 [wandb_init.py:init():783] updated telemetry
+2024-10-28 10:05:07,386 INFO    Thread-7  :900 [wandb_init.py:init():816] communicating run to backend with 90.0 second timeout
+2024-10-28 10:05:07,721 INFO    Thread-7  :900 [wandb_init.py:init():867] starting run threads in backend
+2024-10-28 10:05:07,894 INFO    Thread-7  :900 [wandb_run.py:_console_start():2463] atexit reg
+2024-10-28 10:05:07,894 INFO    Thread-7  :900 [wandb_run.py:_redirect():2311] redirect: wrap_raw
+2024-10-28 10:05:07,895 INFO    Thread-7  :900 [wandb_run.py:_redirect():2376] Wrapping output streams.
+2024-10-28 10:05:07,895 INFO    Thread-7  :900 [wandb_run.py:_redirect():2401] Redirects installed.
+2024-10-28 10:05:07,895 INFO    Thread-7  :900 [wandb_init.py:init():911] run started, returning control to user process
+2024-10-28 10:29:28,743 INFO    Thread-7  :900 [wandb_run.py:_finish():2158] finishing run gachon-university-fdslab/resnet18/aacxqlr2
+2024-10-28 10:29:28,743 INFO    Thread-7  :900 [wandb_run.py:_atexit_cleanup():2426] got exitcode: 0
+2024-10-28 10:29:28,743 INFO    Thread-7  :900 [wandb_run.py:_restore():2408] restore
+2024-10-28 10:29:28,744 INFO    Thread-7  :900 [wandb_run.py:_restore():2414] restore done
+2024-10-28 10:29:31,089 INFO    Thread-7  :900 [wandb_run.py:_footer_history_summary_info():3975] rendering history
+2024-10-28 10:29:31,089 INFO    Thread-7  :900 [wandb_run.py:_footer_history_summary_info():4007] rendering summary
+2024-10-28 10:29:31,095 INFO    Thread-7  :900 [wandb_run.py:_footer_sync_info():3934] logging synced files
+2024-10-28 10:29:36,063 INFO    Thread-10 :900 [wandb_setup.py:_flush():79] Current SDK version is 0.18.5
+2024-10-28 10:29:36,064 INFO    Thread-10 :900 [wandb_setup.py:_flush():79] Configure stats pid to 900
+2024-10-28 10:29:36,064 INFO    Thread-10 :900 [wandb_setup.py:_flush():79] Loading settings from /home/jovyan/.config/wandb/settings
+2024-10-28 10:29:36,064 INFO    Thread-10 :900 [wandb_setup.py:_flush():79] Loading settings from /home/jovyan/wandb/settings
+2024-10-28 10:29:36,064 INFO    Thread-10 :900 [wandb_setup.py:_flush():79] Loading settings from environment variables: {'project': 'resnet18', 'entity': 'gachon-university-fdslab', 'root_dir': '/home/jovyan', 'run_id': 'evpnomxk', 'sweep_param_path': '/home/jovyan/wandb/sweep-ow2ambg7/config-evpnomxk.yaml', 'sweep_id': 'ow2ambg7'}
+2024-10-28 10:29:36,064 INFO    Thread-10 :900 [wandb_setup.py:_flush():79] Applying setup settings: {'mode': None, '_disable_service': None}
+2024-10-28 10:29:36,064 INFO    Thread-10 :900 [wandb_setup.py:_flush():79] Inferring run settings from compute environment: {'program': '<python with no main file>'}
+2024-10-28 10:29:36,064 INFO    Thread-10 :900 [wandb_setup.py:_flush():79] Applying login settings: {}
+2024-10-28 10:29:36,064 INFO    Thread-10 :900 [wandb_init.py:_log_setup():534] Logging user logs to /home/jovyan/wandb/run-20241028_102936-evpnomxk/logs/debug.log
+2024-10-28 10:29:36,064 INFO    Thread-10 :900 [wandb_init.py:_log_setup():535] Logging internal logs to /home/jovyan/wandb/run-20241028_102936-evpnomxk/logs/debug-internal.log
+2024-10-28 10:29:36,064 INFO    Thread-10 :900 [wandb_init.py:init():621] calling init triggers
+2024-10-28 10:29:36,064 INFO    Thread-10 :900 [wandb_init.py:init():628] wandb.init called with sweep_config: {'batch_size': 16, 'epochs': 50, 'learning_rate': 0.01, 'optimizer': 'rmsprop'}
+config: {}
+2024-10-28 10:29:36,064 INFO    Thread-10 :900 [wandb_init.py:init():671] starting backend
+2024-10-28 10:29:36,064 INFO    Thread-10 :900 [wandb_init.py:init():675] sending inform_init request
+2024-10-28 10:29:36,069 INFO    Thread-10 :900 [backend.py:_multiprocessing_setup():104] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2024-10-28 10:29:36,069 INFO    Thread-10 :900 [wandb_init.py:init():688] backend started and connected
+2024-10-28 10:29:36,083 INFO    Thread-10 :900 [wandb_run.py:_config_callback():1390] config_cb None None {'batch_size': 16, 'epochs': 50, 'learning_rate': 0.01, 'optimizer': 'rmsprop'}
+2024-10-28 10:29:36,085 INFO    Thread-10 :900 [wandb_run.py:_label_probe_notebook():1342] probe notebook
+2024-10-28 10:29:36,096 INFO    Thread-10 :900 [wandb_init.py:init():783] updated telemetry
+2024-10-28 10:29:36,097 INFO    Thread-10 :900 [wandb_init.py:init():816] communicating run to backend with 90.0 second timeout
+2024-10-28 10:29:36,445 INFO    Thread-10 :900 [wandb_init.py:init():867] starting run threads in backend
+2024-10-28 10:29:36,616 INFO    Thread-10 :900 [wandb_run.py:_console_start():2463] atexit reg
+2024-10-28 10:29:36,617 INFO    Thread-10 :900 [wandb_run.py:_redirect():2311] redirect: wrap_raw
+2024-10-28 10:29:36,617 INFO    Thread-10 :900 [wandb_run.py:_redirect():2376] Wrapping output streams.
+2024-10-28 10:29:36,617 INFO    Thread-10 :900 [wandb_run.py:_redirect():2401] Redirects installed.
+2024-10-28 10:29:36,618 INFO    Thread-10 :900 [wandb_init.py:init():911] run started, returning control to user process
+2024-10-28 11:04:58,265 INFO    Thread-10 :900 [wandb_run.py:_finish():2158] finishing run gachon-university-fdslab/resnet18/evpnomxk
+2024-10-28 11:04:58,265 INFO    Thread-10 :900 [wandb_run.py:_atexit_cleanup():2426] got exitcode: 0
+2024-10-28 11:04:58,265 INFO    Thread-10 :900 [wandb_run.py:_restore():2408] restore
+2024-10-28 11:04:58,265 INFO    Thread-10 :900 [wandb_run.py:_restore():2414] restore done
+2024-10-28 11:05:00,789 INFO    Thread-10 :900 [wandb_run.py:_footer_history_summary_info():3975] rendering history
+2024-10-28 11:05:00,789 INFO    Thread-10 :900 [wandb_run.py:_footer_history_summary_info():4007] rendering summary
+2024-10-28 11:05:00,795 INFO    Thread-10 :900 [wandb_run.py:_footer_sync_info():3934] logging synced files
+2024-10-28 11:05:05,557 INFO    Thread-13 :900 [wandb_setup.py:_flush():79] Current SDK version is 0.18.5
+2024-10-28 11:05:05,557 INFO    Thread-13 :900 [wandb_setup.py:_flush():79] Configure stats pid to 900
+2024-10-28 11:05:05,557 INFO    Thread-13 :900 [wandb_setup.py:_flush():79] Loading settings from /home/jovyan/.config/wandb/settings
+2024-10-28 11:05:05,557 INFO    Thread-13 :900 [wandb_setup.py:_flush():79] Loading settings from /home/jovyan/wandb/settings
+2024-10-28 11:05:05,557 INFO    Thread-13 :900 [wandb_setup.py:_flush():79] Loading settings from environment variables: {'project': 'resnet18', 'entity': 'gachon-university-fdslab', 'root_dir': '/home/jovyan', 'run_id': 'cqlxyaoa', 'sweep_param_path': '/home/jovyan/wandb/sweep-ow2ambg7/config-cqlxyaoa.yaml', 'sweep_id': 'ow2ambg7'}
+2024-10-28 11:05:05,557 INFO    Thread-13 :900 [wandb_setup.py:_flush():79] Applying setup settings: {'mode': None, '_disable_service': None}
+2024-10-28 11:05:05,558 INFO    Thread-13 :900 [wandb_setup.py:_flush():79] Inferring run settings from compute environment: {'program': '<python with no main file>'}
+2024-10-28 11:05:05,558 INFO    Thread-13 :900 [wandb_setup.py:_flush():79] Applying login settings: {}
+2024-10-28 11:05:05,558 INFO    Thread-13 :900 [wandb_init.py:_log_setup():534] Logging user logs to /home/jovyan/wandb/run-20241028_110505-cqlxyaoa/logs/debug.log
+2024-10-28 11:05:05,558 INFO    Thread-13 :900 [wandb_init.py:_log_setup():535] Logging internal logs to /home/jovyan/wandb/run-20241028_110505-cqlxyaoa/logs/debug-internal.log
+2024-10-28 11:05:05,558 INFO    Thread-13 :900 [wandb_init.py:init():621] calling init triggers
+2024-10-28 11:05:05,558 INFO    Thread-13 :900 [wandb_init.py:init():628] wandb.init called with sweep_config: {'batch_size': 16, 'epochs': 50, 'learning_rate': 0.01, 'optimizer': 'adam'}
+config: {}
+2024-10-28 11:05:05,558 INFO    Thread-13 :900 [wandb_init.py:init():671] starting backend
+2024-10-28 11:05:05,558 INFO    Thread-13 :900 [wandb_init.py:init():675] sending inform_init request
+2024-10-28 11:05:05,562 INFO    Thread-13 :900 [backend.py:_multiprocessing_setup():104] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2024-10-28 11:05:05,563 INFO    Thread-13 :900 [wandb_init.py:init():688] backend started and connected
+2024-10-28 11:05:05,576 INFO    Thread-13 :900 [wandb_run.py:_config_callback():1390] config_cb None None {'batch_size': 16, 'epochs': 50, 'learning_rate': 0.01, 'optimizer': 'adam'}
+2024-10-28 11:05:05,577 INFO    Thread-13 :900 [wandb_run.py:_label_probe_notebook():1342] probe notebook
+2024-10-28 11:05:05,589 INFO    Thread-13 :900 [wandb_init.py:init():783] updated telemetry
+2024-10-28 11:05:05,589 INFO    Thread-13 :900 [wandb_init.py:init():816] communicating run to backend with 90.0 second timeout
+2024-10-28 11:05:05,928 INFO    Thread-13 :900 [wandb_init.py:init():867] starting run threads in backend
+2024-10-28 11:05:06,099 INFO    Thread-13 :900 [wandb_run.py:_console_start():2463] atexit reg
+2024-10-28 11:05:06,099 INFO    Thread-13 :900 [wandb_run.py:_redirect():2311] redirect: wrap_raw
+2024-10-28 11:05:06,099 INFO    Thread-13 :900 [wandb_run.py:_redirect():2376] Wrapping output streams.
+2024-10-28 11:05:06,099 INFO    Thread-13 :900 [wandb_run.py:_redirect():2401] Redirects installed.
+2024-10-28 11:05:06,100 INFO    Thread-13 :900 [wandb_init.py:init():911] run started, returning control to user process
+2024-10-28 11:42:02,601 INFO    Thread-13 :900 [wandb_run.py:_finish():2158] finishing run gachon-university-fdslab/resnet18/cqlxyaoa
+2024-10-28 11:42:02,601 INFO    Thread-13 :900 [wandb_run.py:_atexit_cleanup():2426] got exitcode: 0
+2024-10-28 11:42:02,602 INFO    Thread-13 :900 [wandb_run.py:_restore():2408] restore
+2024-10-28 11:42:02,602 INFO    Thread-13 :900 [wandb_run.py:_restore():2414] restore done
+2024-10-28 11:42:05,319 INFO    Thread-13 :900 [wandb_run.py:_footer_history_summary_info():3975] rendering history
+2024-10-28 11:42:05,319 INFO    Thread-13 :900 [wandb_run.py:_footer_history_summary_info():4007] rendering summary
+2024-10-28 11:42:05,325 INFO    Thread-13 :900 [wandb_run.py:_footer_sync_info():3934] logging synced files
+2024-10-28 11:42:16,018 INFO    Thread-16 :900 [wandb_setup.py:_flush():79] Current SDK version is 0.18.5
+2024-10-28 11:42:16,019 INFO    Thread-16 :900 [wandb_setup.py:_flush():79] Configure stats pid to 900
+2024-10-28 11:42:16,019 INFO    Thread-16 :900 [wandb_setup.py:_flush():79] Loading settings from /home/jovyan/.config/wandb/settings
+2024-10-28 11:42:16,019 INFO    Thread-16 :900 [wandb_setup.py:_flush():79] Loading settings from /home/jovyan/wandb/settings
+2024-10-28 11:42:16,019 INFO    Thread-16 :900 [wandb_setup.py:_flush():79] Loading settings from environment variables: {'project': 'resnet18', 'entity': 'gachon-university-fdslab', 'root_dir': '/home/jovyan', 'run_id': '7e53amqj', 'sweep_param_path': '/home/jovyan/wandb/sweep-ow2ambg7/config-7e53amqj.yaml', 'sweep_id': 'ow2ambg7'}
+2024-10-28 11:42:16,019 INFO    Thread-16 :900 [wandb_setup.py:_flush():79] Applying setup settings: {'mode': None, '_disable_service': None}
+2024-10-28 11:42:16,019 INFO    Thread-16 :900 [wandb_setup.py:_flush():79] Inferring run settings from compute environment: {'program': '<python with no main file>'}
+2024-10-28 11:42:16,019 INFO    Thread-16 :900 [wandb_setup.py:_flush():79] Applying login settings: {}
+2024-10-28 11:42:16,019 INFO    Thread-16 :900 [wandb_init.py:_log_setup():534] Logging user logs to /home/jovyan/wandb/run-20241028_114216-7e53amqj/logs/debug.log
+2024-10-28 11:42:16,019 INFO    Thread-16 :900 [wandb_init.py:_log_setup():535] Logging internal logs to /home/jovyan/wandb/run-20241028_114216-7e53amqj/logs/debug-internal.log
+2024-10-28 11:42:16,019 INFO    Thread-16 :900 [wandb_init.py:init():621] calling init triggers
+2024-10-28 11:42:16,019 INFO    Thread-16 :900 [wandb_init.py:init():628] wandb.init called with sweep_config: {'batch_size': 16, 'epochs': 50, 'learning_rate': 0.001, 'optimizer': 'sgd'}
+config: {}
+2024-10-28 11:42:16,019 INFO    Thread-16 :900 [wandb_init.py:init():671] starting backend
+2024-10-28 11:42:16,019 INFO    Thread-16 :900 [wandb_init.py:init():675] sending inform_init request
+2024-10-28 11:42:16,024 INFO    Thread-16 :900 [backend.py:_multiprocessing_setup():104] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2024-10-28 11:42:16,024 INFO    Thread-16 :900 [wandb_init.py:init():688] backend started and connected
+2024-10-28 11:42:16,037 INFO    Thread-16 :900 [wandb_run.py:_config_callback():1390] config_cb None None {'batch_size': 16, 'epochs': 50, 'learning_rate': 0.001, 'optimizer': 'sgd'}
+2024-10-28 11:42:16,039 INFO    Thread-16 :900 [wandb_run.py:_label_probe_notebook():1342] probe notebook
+2024-10-28 11:42:16,050 INFO    Thread-16 :900 [wandb_init.py:init():783] updated telemetry
+2024-10-28 11:42:16,050 INFO    Thread-16 :900 [wandb_init.py:init():816] communicating run to backend with 90.0 second timeout
+2024-10-28 11:42:16,726 INFO    Thread-16 :900 [wandb_init.py:init():867] starting run threads in backend
+2024-10-28 11:42:16,896 INFO    Thread-16 :900 [wandb_run.py:_console_start():2463] atexit reg
+2024-10-28 11:42:16,896 INFO    Thread-16 :900 [wandb_run.py:_redirect():2311] redirect: wrap_raw
+2024-10-28 11:42:16,896 INFO    Thread-16 :900 [wandb_run.py:_redirect():2376] Wrapping output streams.
+2024-10-28 11:42:16,896 INFO    Thread-16 :900 [wandb_run.py:_redirect():2401] Redirects installed.
+2024-10-28 11:42:16,897 INFO    Thread-16 :900 [wandb_init.py:init():911] run started, returning control to user process
+2024-10-28 12:19:08,453 INFO    Thread-16 :900 [wandb_run.py:_finish():2158] finishing run gachon-university-fdslab/resnet18/7e53amqj
+2024-10-28 12:19:08,453 INFO    Thread-16 :900 [wandb_run.py:_atexit_cleanup():2426] got exitcode: 0
+2024-10-28 12:19:08,453 INFO    Thread-16 :900 [wandb_run.py:_restore():2408] restore
+2024-10-28 12:19:08,453 INFO    Thread-16 :900 [wandb_run.py:_restore():2414] restore done
+2024-10-28 12:19:11,190 INFO    Thread-16 :900 [wandb_run.py:_footer_history_summary_info():3975] rendering history
+2024-10-28 12:19:11,191 INFO    Thread-16 :900 [wandb_run.py:_footer_history_summary_info():4007] rendering summary
+2024-10-28 12:19:11,196 INFO    Thread-16 :900 [wandb_run.py:_footer_sync_info():3934] logging synced files
+2024-10-28 12:19:16,222 INFO    Thread-19 :900 [wandb_setup.py:_flush():79] Current SDK version is 0.18.5
+2024-10-28 12:19:16,222 INFO    Thread-19 :900 [wandb_setup.py:_flush():79] Configure stats pid to 900
+2024-10-28 12:19:16,223 INFO    Thread-19 :900 [wandb_setup.py:_flush():79] Loading settings from /home/jovyan/.config/wandb/settings
+2024-10-28 12:19:16,223 INFO    Thread-19 :900 [wandb_setup.py:_flush():79] Loading settings from /home/jovyan/wandb/settings
+2024-10-28 12:19:16,223 INFO    Thread-19 :900 [wandb_setup.py:_flush():79] Loading settings from environment variables: {'project': 'resnet18', 'entity': 'gachon-university-fdslab', 'root_dir': '/home/jovyan', 'run_id': 'cx99s4ii', 'sweep_param_path': '/home/jovyan/wandb/sweep-ow2ambg7/config-cx99s4ii.yaml', 'sweep_id': 'ow2ambg7'}
+2024-10-28 12:19:16,223 INFO    Thread-19 :900 [wandb_setup.py:_flush():79] Applying setup settings: {'mode': None, '_disable_service': None}
+2024-10-28 12:19:16,223 INFO    Thread-19 :900 [wandb_setup.py:_flush():79] Inferring run settings from compute environment: {'program': '<python with no main file>'}
+2024-10-28 12:19:16,223 INFO    Thread-19 :900 [wandb_setup.py:_flush():79] Applying login settings: {}
+2024-10-28 12:19:16,223 INFO    Thread-19 :900 [wandb_init.py:_log_setup():534] Logging user logs to /home/jovyan/wandb/run-20241028_121916-cx99s4ii/logs/debug.log
+2024-10-28 12:19:16,223 INFO    Thread-19 :900 [wandb_init.py:_log_setup():535] Logging internal logs to /home/jovyan/wandb/run-20241028_121916-cx99s4ii/logs/debug-internal.log
+2024-10-28 12:19:16,223 INFO    Thread-19 :900 [wandb_init.py:init():621] calling init triggers
+2024-10-28 12:19:16,223 INFO    Thread-19 :900 [wandb_init.py:init():628] wandb.init called with sweep_config: {'batch_size': 16, 'epochs': 50, 'learning_rate': 0.001, 'optimizer': 'rmsprop'}
+config: {}
+2024-10-28 12:19:16,223 INFO    Thread-19 :900 [wandb_init.py:init():671] starting backend
+2024-10-28 12:19:16,223 INFO    Thread-19 :900 [wandb_init.py:init():675] sending inform_init request
+2024-10-28 12:19:16,227 INFO    Thread-19 :900 [backend.py:_multiprocessing_setup():104] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2024-10-28 12:19:16,228 INFO    Thread-19 :900 [wandb_init.py:init():688] backend started and connected
+2024-10-28 12:19:16,333 INFO    Thread-19 :900 [wandb_run.py:_config_callback():1390] config_cb None None {'batch_size': 16, 'epochs': 50, 'learning_rate': 0.001, 'optimizer': 'rmsprop'}
+2024-10-28 12:19:16,334 INFO    Thread-19 :900 [wandb_run.py:_label_probe_notebook():1342] probe notebook
+2024-10-28 12:19:16,344 INFO    Thread-19 :900 [wandb_init.py:init():783] updated telemetry
+2024-10-28 12:19:16,345 INFO    Thread-19 :900 [wandb_init.py:init():816] communicating run to backend with 90.0 second timeout
+2024-10-28 12:19:16,622 INFO    Thread-19 :900 [wandb_init.py:init():867] starting run threads in backend
+2024-10-28 12:19:16,797 INFO    Thread-19 :900 [wandb_run.py:_console_start():2463] atexit reg
+2024-10-28 12:19:16,798 INFO    Thread-19 :900 [wandb_run.py:_redirect():2311] redirect: wrap_raw
+2024-10-28 12:19:16,798 INFO    Thread-19 :900 [wandb_run.py:_redirect():2376] Wrapping output streams.
+2024-10-28 12:19:16,798 INFO    Thread-19 :900 [wandb_run.py:_redirect():2401] Redirects installed.
+2024-10-28 12:19:16,798 INFO    Thread-19 :900 [wandb_init.py:init():911] run started, returning control to user process
+2024-10-28 12:53:15,923 INFO    Thread-19 :900 [wandb_run.py:_finish():2158] finishing run gachon-university-fdslab/resnet18/cx99s4ii
+2024-10-28 12:53:15,924 INFO    Thread-19 :900 [wandb_run.py:_atexit_cleanup():2426] got exitcode: 0
+2024-10-28 12:53:15,924 INFO    Thread-19 :900 [wandb_run.py:_restore():2408] restore
+2024-10-28 12:53:15,924 INFO    Thread-19 :900 [wandb_run.py:_restore():2414] restore done
+2024-10-28 12:53:18,218 INFO    Thread-19 :900 [wandb_run.py:_footer_history_summary_info():3975] rendering history
+2024-10-28 12:53:18,219 INFO    Thread-19 :900 [wandb_run.py:_footer_history_summary_info():4007] rendering summary
+2024-10-28 12:53:18,224 INFO    Thread-19 :900 [wandb_run.py:_footer_sync_info():3934] logging synced files
+2024-10-28 12:53:23,570 INFO    Thread-22 :900 [wandb_setup.py:_flush():79] Current SDK version is 0.18.5
+2024-10-28 12:53:23,570 INFO    Thread-22 :900 [wandb_setup.py:_flush():79] Configure stats pid to 900
+2024-10-28 12:53:23,570 INFO    Thread-22 :900 [wandb_setup.py:_flush():79] Loading settings from /home/jovyan/.config/wandb/settings
+2024-10-28 12:53:23,570 INFO    Thread-22 :900 [wandb_setup.py:_flush():79] Loading settings from /home/jovyan/wandb/settings
+2024-10-28 12:53:23,570 INFO    Thread-22 :900 [wandb_setup.py:_flush():79] Loading settings from environment variables: {'project': 'resnet18', 'entity': 'gachon-university-fdslab', 'root_dir': '/home/jovyan', 'run_id': 'm9sziopr', 'sweep_param_path': '/home/jovyan/wandb/sweep-ow2ambg7/config-m9sziopr.yaml', 'sweep_id': 'ow2ambg7'}
+2024-10-28 12:53:23,570 INFO    Thread-22 :900 [wandb_setup.py:_flush():79] Applying setup settings: {'mode': None, '_disable_service': None}
+2024-10-28 12:53:23,570 INFO    Thread-22 :900 [wandb_setup.py:_flush():79] Inferring run settings from compute environment: {'program': '<python with no main file>'}
+2024-10-28 12:53:23,570 INFO    Thread-22 :900 [wandb_setup.py:_flush():79] Applying login settings: {}
+2024-10-28 12:53:23,571 INFO    Thread-22 :900 [wandb_init.py:_log_setup():534] Logging user logs to /home/jovyan/wandb/run-20241028_125323-m9sziopr/logs/debug.log
+2024-10-28 12:53:23,571 INFO    Thread-22 :900 [wandb_init.py:_log_setup():535] Logging internal logs to /home/jovyan/wandb/run-20241028_125323-m9sziopr/logs/debug-internal.log
+2024-10-28 12:53:23,571 INFO    Thread-22 :900 [wandb_init.py:init():621] calling init triggers
+2024-10-28 12:53:23,571 INFO    Thread-22 :900 [wandb_init.py:init():628] wandb.init called with sweep_config: {'batch_size': 16, 'epochs': 50, 'learning_rate': 0.001, 'optimizer': 'adam'}
+config: {}
+2024-10-28 12:53:23,571 INFO    Thread-22 :900 [wandb_init.py:init():671] starting backend
+2024-10-28 12:53:23,571 INFO    Thread-22 :900 [wandb_init.py:init():675] sending inform_init request
+2024-10-28 12:53:23,578 INFO    Thread-22 :900 [backend.py:_multiprocessing_setup():104] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2024-10-28 12:53:23,579 INFO    Thread-22 :900 [wandb_init.py:init():688] backend started and connected
+2024-10-28 12:53:23,593 INFO    Thread-22 :900 [wandb_run.py:_config_callback():1390] config_cb None None {'batch_size': 16, 'epochs': 50, 'learning_rate': 0.001, 'optimizer': 'adam'}
+2024-10-28 12:53:23,594 INFO    Thread-22 :900 [wandb_run.py:_label_probe_notebook():1342] probe notebook
+2024-10-28 12:53:23,606 INFO    Thread-22 :900 [wandb_init.py:init():783] updated telemetry
+2024-10-28 12:53:23,607 INFO    Thread-22 :900 [wandb_init.py:init():816] communicating run to backend with 90.0 second timeout
+2024-10-28 12:53:24,053 INFO    Thread-22 :900 [wandb_init.py:init():867] starting run threads in backend
+2024-10-28 12:53:24,223 INFO    Thread-22 :900 [wandb_run.py:_console_start():2463] atexit reg
+2024-10-28 12:53:24,223 INFO    Thread-22 :900 [wandb_run.py:_redirect():2311] redirect: wrap_raw
+2024-10-28 12:53:24,223 INFO    Thread-22 :900 [wandb_run.py:_redirect():2376] Wrapping output streams.
+2024-10-28 12:53:24,223 INFO    Thread-22 :900 [wandb_run.py:_redirect():2401] Redirects installed.
+2024-10-28 12:53:24,224 INFO    Thread-22 :900 [wandb_init.py:init():911] run started, returning control to user process
+2024-10-28 13:20:06,001 INFO    Thread-22 :900 [wandb_run.py:_finish():2158] finishing run gachon-university-fdslab/resnet18/m9sziopr
+2024-10-28 13:20:06,001 INFO    Thread-22 :900 [wandb_run.py:_atexit_cleanup():2426] got exitcode: 0
+2024-10-28 13:20:06,002 INFO    Thread-22 :900 [wandb_run.py:_restore():2408] restore
+2024-10-28 13:20:06,002 INFO    Thread-22 :900 [wandb_run.py:_restore():2414] restore done
+2024-10-28 13:20:09,930 INFO    Thread-22 :900 [wandb_run.py:_footer_history_summary_info():3975] rendering history
+2024-10-28 13:20:09,930 INFO    Thread-22 :900 [wandb_run.py:_footer_history_summary_info():4007] rendering summary
+2024-10-28 13:20:09,936 INFO    Thread-22 :900 [wandb_run.py:_footer_sync_info():3934] logging synced files
+2024-10-28 13:20:14,651 INFO    Thread-25 :900 [wandb_setup.py:_flush():79] Current SDK version is 0.18.5
+2024-10-28 13:20:14,651 INFO    Thread-25 :900 [wandb_setup.py:_flush():79] Configure stats pid to 900
+2024-10-28 13:20:14,652 INFO    Thread-25 :900 [wandb_setup.py:_flush():79] Loading settings from /home/jovyan/.config/wandb/settings
+2024-10-28 13:20:14,652 INFO    Thread-25 :900 [wandb_setup.py:_flush():79] Loading settings from /home/jovyan/wandb/settings
+2024-10-28 13:20:14,652 INFO    Thread-25 :900 [wandb_setup.py:_flush():79] Loading settings from environment variables: {'project': 'resnet18', 'entity': 'gachon-university-fdslab', 'root_dir': '/home/jovyan', 'run_id': 'gigpdp8a', 'sweep_param_path': '/home/jovyan/wandb/sweep-ow2ambg7/config-gigpdp8a.yaml', 'sweep_id': 'ow2ambg7'}
+2024-10-28 13:20:14,652 INFO    Thread-25 :900 [wandb_setup.py:_flush():79] Applying setup settings: {'mode': None, '_disable_service': None}
+2024-10-28 13:20:14,652 INFO    Thread-25 :900 [wandb_setup.py:_flush():79] Inferring run settings from compute environment: {'program': '<python with no main file>'}
+2024-10-28 13:20:14,652 INFO    Thread-25 :900 [wandb_setup.py:_flush():79] Applying login settings: {}
+2024-10-28 13:20:14,652 INFO    Thread-25 :900 [wandb_init.py:_log_setup():534] Logging user logs to /home/jovyan/wandb/run-20241028_132014-gigpdp8a/logs/debug.log
+2024-10-28 13:20:14,652 INFO    Thread-25 :900 [wandb_init.py:_log_setup():535] Logging internal logs to /home/jovyan/wandb/run-20241028_132014-gigpdp8a/logs/debug-internal.log
+2024-10-28 13:20:14,652 INFO    Thread-25 :900 [wandb_init.py:init():621] calling init triggers
+2024-10-28 13:20:14,652 INFO    Thread-25 :900 [wandb_init.py:init():628] wandb.init called with sweep_config: {'batch_size': 16, 'epochs': 50, 'learning_rate': 0.0001, 'optimizer': 'sgd'}
+config: {}
+2024-10-28 13:20:14,652 INFO    Thread-25 :900 [wandb_init.py:init():671] starting backend
+2024-10-28 13:20:14,652 INFO    Thread-25 :900 [wandb_init.py:init():675] sending inform_init request
+2024-10-28 13:20:14,657 INFO    Thread-25 :900 [backend.py:_multiprocessing_setup():104] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2024-10-28 13:20:14,657 INFO    Thread-25 :900 [wandb_init.py:init():688] backend started and connected
+2024-10-28 13:20:14,670 INFO    Thread-25 :900 [wandb_run.py:_config_callback():1390] config_cb None None {'batch_size': 16, 'epochs': 50, 'learning_rate': 0.0001, 'optimizer': 'sgd'}
+2024-10-28 13:20:14,671 INFO    Thread-25 :900 [wandb_run.py:_label_probe_notebook():1342] probe notebook
+2024-10-28 13:20:14,683 INFO    Thread-25 :900 [wandb_init.py:init():783] updated telemetry
+2024-10-28 13:20:14,683 INFO    Thread-25 :900 [wandb_init.py:init():816] communicating run to backend with 90.0 second timeout
+2024-10-28 13:20:15,264 INFO    Thread-25 :900 [wandb_init.py:init():867] starting run threads in backend
+2024-10-28 13:20:15,433 INFO    Thread-25 :900 [wandb_run.py:_console_start():2463] atexit reg
+2024-10-28 13:20:15,434 INFO    Thread-25 :900 [wandb_run.py:_redirect():2311] redirect: wrap_raw
+2024-10-28 13:20:15,434 INFO    Thread-25 :900 [wandb_run.py:_redirect():2376] Wrapping output streams.
+2024-10-28 13:20:15,434 INFO    Thread-25 :900 [wandb_run.py:_redirect():2401] Redirects installed.
+2024-10-28 13:20:15,434 INFO    Thread-25 :900 [wandb_init.py:init():911] run started, returning control to user process

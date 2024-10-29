@@ -1,0 +1,20 @@
+{"time":"2024-10-28T20:53:45.074714123Z","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-10-28T20:53:45.074726Z","level":"INFO","msg":"created symlink","path":"/home/jovyan/wandb/run-20241028_205345-bxavls7s/logs/debug-core.log"}
+{"time":"2024-10-28T20:53:45.176607954Z","level":"INFO","msg":"created new stream","id":"bxavls7s"}
+{"time":"2024-10-28T20:53:45.176639191Z","level":"INFO","msg":"stream: started","id":"bxavls7s"}
+{"time":"2024-10-28T20:53:45.176655578Z","level":"INFO","msg":"handler: started","stream_id":{"value":"bxavls7s"}}
+{"time":"2024-10-28T20:53:45.176789497Z","level":"INFO","msg":"sender: started","stream_id":"bxavls7s"}
+{"time":"2024-10-28T20:53:45.176816752Z","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"bxavls7s"}}
+{"time":"2024-10-28T20:53:45.432663141Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-28T21:29:17.102878325Z","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-28T21:29:17.103343551Z","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-28T21:29:17.501779733Z","level":"WARN","msg":"No job ingredients found, not creating job artifact"}
+{"time":"2024-10-28T21:29:17.501809378Z","level":"WARN","msg":"No source type found, not creating job artifact"}
+{"time":"2024-10-28T21:29:17.501814395Z","level":"INFO","msg":"sender: sendDefer: no job artifact to save"}
+{"time":"2024-10-28T21:29:18.103451706Z","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.551467379,"progress":"322B/322B"},{"desc":"uploading config.yaml","runtime_seconds":0.362093143,"progress":"655B/655B"},{"desc":"uploading output.log","runtime_seconds":0.362083504,"progress":"15.1KB/15.1KB"}],"total_operations":3}}
+{"time":"2024-10-28T21:29:18.528373886Z","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-10-28T21:29:19.829186119Z","level":"INFO","msg":"stream: closing","id":"bxavls7s"}
+{"time":"2024-10-28T21:29:19.829204421Z","level":"INFO","msg":"handler: closed","stream_id":{"value":"bxavls7s"}}
+{"time":"2024-10-28T21:29:19.829224482Z","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"bxavls7s"}}
+{"time":"2024-10-28T21:29:19.829287651Z","level":"INFO","msg":"sender: closed","stream_id":"bxavls7s"}
+{"time":"2024-10-28T21:29:19.829295622Z","level":"INFO","msg":"stream: closed","id":"bxavls7s"}

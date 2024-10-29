@@ -1,0 +1,13 @@
+Train Epoch : 0 [0/295]	Loss:  3.982502
+Train Epoch : 0 [10/295]	Loss:  4.105608
+Train Epoch : 0 [20/295]	Loss:  3.995866
+Train Epoch : 0 [30/295]	Loss:  4.253995
+Train Epoch : 0 [40/295]	Loss:  4.224424
+Created a learning model and optimizer
+Num of each dataset: 4720 296 298
+Loaded combined dataloader
+fc.weight
+True
+fc.bias
+True
+Created a learning model and optimizer

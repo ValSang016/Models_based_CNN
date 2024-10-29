@@ -1,0 +1,32 @@
+{"time":"2024-10-28T09:02:06.876371522Z","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-10-28T09:02:06.87638331Z","level":"INFO","msg":"created symlink","path":"/home/jovyan/wandb/run-20241028_090204-ybnscgic/logs/debug-core.log"}
+{"time":"2024-10-28T09:02:06.978616548Z","level":"INFO","msg":"created new stream","id":"ybnscgic"}
+{"time":"2024-10-28T09:02:06.978646467Z","level":"INFO","msg":"stream: started","id":"ybnscgic"}
+{"time":"2024-10-28T09:02:06.978657084Z","level":"INFO","msg":"handler: started","stream_id":{"value":"ybnscgic"}}
+{"time":"2024-10-28T09:02:06.978696434Z","level":"INFO","msg":"sender: started","stream_id":"ybnscgic"}
+{"time":"2024-10-28T09:02:06.978677835Z","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"ybnscgic"}}
+{"time":"2024-10-28T09:02:07.309257702Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-28T09:02:07.477270187Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-28T09:02:08.478452572Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-28T09:02:14.726603917Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-28T09:02:26.770142169Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-28T09:19:28.53791022Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-28T09:19:41.042449915Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-28T09:19:41.084219062Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-28T09:19:52.517134786Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-28T09:19:52.520618244Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-28T09:20:00.111346298Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-28T09:20:00.271182349Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-28T09:20:03.732540072Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-28T09:20:03.746995906Z","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-28T09:20:03.747532794Z","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-28T09:20:04.296709464Z","level":"WARN","msg":"No job ingredients found, not creating job artifact"}
+{"time":"2024-10-28T09:20:04.296724119Z","level":"WARN","msg":"No source type found, not creating job artifact"}
+{"time":"2024-10-28T09:20:04.29672862Z","level":"INFO","msg":"sender: sendDefer: no job artifact to save"}
+{"time":"2024-10-28T09:20:04.747629552Z","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.423184865,"progress":"257B/257B"},{"desc":"uploading config.yaml","runtime_seconds":0.207161405,"progress":"545B/545B"},{"desc":"uploading output.log","runtime_seconds":0.207153778,"progress":"19.4KB/19.4KB"}],"total_operations":3}}
+{"time":"2024-10-28T09:20:04.887769112Z","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-10-28T09:20:06.12891916Z","level":"INFO","msg":"stream: closing","id":"ybnscgic"}
+{"time":"2024-10-28T09:20:06.128939708Z","level":"INFO","msg":"handler: closed","stream_id":{"value":"ybnscgic"}}
+{"time":"2024-10-28T09:20:06.128956224Z","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"ybnscgic"}}
+{"time":"2024-10-28T09:20:06.128970883Z","level":"INFO","msg":"sender: closed","stream_id":"ybnscgic"}
+{"time":"2024-10-28T09:20:06.128999794Z","level":"INFO","msg":"stream: closed","id":"ybnscgic"}

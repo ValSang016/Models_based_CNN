@@ -1,0 +1,79 @@
+2024-10-28 09:55:14,968 INFO    MainThread:785 [wandb_setup.py:_flush():79] Current SDK version is 0.18.5
+2024-10-28 09:55:14,968 INFO    MainThread:785 [wandb_setup.py:_flush():79] Configure stats pid to 785
+2024-10-28 09:55:14,969 INFO    MainThread:785 [wandb_setup.py:_flush():79] Loading settings from /home/jovyan/.config/wandb/settings
+2024-10-28 09:55:14,969 INFO    MainThread:785 [wandb_setup.py:_flush():79] Loading settings from /home/jovyan/wandb/settings
+2024-10-28 09:55:14,969 INFO    MainThread:785 [wandb_setup.py:_flush():79] Loading settings from environment variables: {}
+2024-10-28 09:55:14,969 INFO    MainThread:785 [wandb_setup.py:_flush():79] Applying setup settings: {'mode': None, '_disable_service': None}
+2024-10-28 09:55:14,969 INFO    MainThread:785 [wandb_setup.py:_flush():79] Inferring run settings from compute environment: {'program': '<python with no main file>'}
+2024-10-28 09:55:14,969 INFO    MainThread:785 [wandb_setup.py:_flush():79] Applying login settings: {}
+2024-10-28 09:55:14,969 INFO    MainThread:785 [wandb_init.py:_log_setup():534] Logging user logs to /home/jovyan/wandb/run-20241028_095514-v2nra2gg/logs/debug.log
+2024-10-28 09:55:14,969 INFO    MainThread:785 [wandb_init.py:_log_setup():535] Logging internal logs to /home/jovyan/wandb/run-20241028_095514-v2nra2gg/logs/debug-internal.log
+2024-10-28 09:55:14,969 INFO    MainThread:785 [wandb_init.py:_jupyter_setup():480] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x7f0a7390e1f0>
+2024-10-28 09:55:14,969 INFO    MainThread:785 [wandb_init.py:init():621] calling init triggers
+2024-10-28 09:55:14,969 INFO    MainThread:785 [wandb_init.py:init():628] wandb.init called with sweep_config: {}
+config: {}
+2024-10-28 09:55:14,969 INFO    MainThread:785 [wandb_init.py:init():671] starting backend
+2024-10-28 09:55:14,969 INFO    MainThread:785 [wandb_init.py:init():675] sending inform_init request
+2024-10-28 09:55:14,971 INFO    MainThread:785 [backend.py:_multiprocessing_setup():104] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2024-10-28 09:55:14,972 INFO    MainThread:785 [wandb_init.py:init():688] backend started and connected
+2024-10-28 09:55:14,980 INFO    MainThread:785 [wandb_run.py:_label_probe_notebook():1342] probe notebook
+2024-10-28 09:55:14,992 INFO    MainThread:785 [wandb_init.py:init():783] updated telemetry
+2024-10-28 09:55:15,019 INFO    MainThread:785 [wandb_init.py:init():816] communicating run to backend with 90.0 second timeout
+2024-10-28 09:55:15,382 INFO    MainThread:785 [wandb_init.py:init():867] starting run threads in backend
+2024-10-28 09:55:15,551 INFO    MainThread:785 [wandb_run.py:_console_start():2463] atexit reg
+2024-10-28 09:55:15,551 INFO    MainThread:785 [wandb_run.py:_redirect():2311] redirect: wrap_raw
+2024-10-28 09:55:15,551 INFO    MainThread:785 [wandb_run.py:_redirect():2376] Wrapping output streams.
+2024-10-28 09:55:15,551 INFO    MainThread:785 [wandb_run.py:_redirect():2401] Redirects installed.
+2024-10-28 09:55:15,553 INFO    MainThread:785 [wandb_init.py:init():911] run started, returning control to user process
+2024-10-28 09:55:15,554 INFO    MainThread:785 [jupyter.py:save_ipynb():387] not saving jupyter notebook
+2024-10-28 09:55:15,554 INFO    MainThread:785 [wandb_init.py:_pause_backend():445] pausing backend
+2024-10-28 09:55:56,787 INFO    MainThread:785 [wandb_init.py:_resume_backend():450] resuming backend
+2024-10-28 09:55:56,788 INFO    MainThread:785 [jupyter.py:save_ipynb():387] not saving jupyter notebook
+2024-10-28 09:55:56,789 INFO    MainThread:785 [wandb_init.py:_pause_backend():445] pausing backend
+2024-10-28 09:56:01,215 INFO    MainThread:785 [wandb_init.py:_resume_backend():450] resuming backend
+2024-10-28 09:56:01,647 INFO    MainThread:785 [jupyter.py:save_ipynb():387] not saving jupyter notebook
+2024-10-28 09:56:01,647 INFO    MainThread:785 [wandb_init.py:_pause_backend():445] pausing backend
+2024-10-28 09:56:06,184 INFO    MainThread:785 [wandb_init.py:_resume_backend():450] resuming backend
+2024-10-28 09:56:06,186 INFO    MainThread:785 [pyagent.py:run():322] Starting sweep agent: entity=None, project=None, count=None
+2024-10-28 09:56:06,807 WARNING MsgRouterThr:785 [router.py:message_loop():77] message_loop has been closed
+2024-10-28 09:56:08,915 INFO    Thread-7  :785 [wandb_setup.py:_flush():79] Current SDK version is 0.18.5
+2024-10-28 09:56:08,915 INFO    Thread-7  :785 [wandb_setup.py:_flush():79] Configure stats pid to 785
+2024-10-28 09:56:08,915 INFO    Thread-7  :785 [wandb_setup.py:_flush():79] Loading settings from /home/jovyan/.config/wandb/settings
+2024-10-28 09:56:08,915 INFO    Thread-7  :785 [wandb_setup.py:_flush():79] Loading settings from /home/jovyan/wandb/settings
+2024-10-28 09:56:08,915 INFO    Thread-7  :785 [wandb_setup.py:_flush():79] Loading settings from environment variables: {'project': 'resnet18', 'entity': 'gachon-university-fdslab', 'root_dir': '/home/jovyan', 'sweep_id': 'jbisakz5', 'run_id': 'mo15ib6g', 'sweep_param_path': '/home/jovyan/wandb/sweep-jbisakz5/config-mo15ib6g.yaml'}
+2024-10-28 09:56:08,916 INFO    Thread-7  :785 [wandb_setup.py:_flush():79] Applying setup settings: {'mode': None, '_disable_service': None}
+2024-10-28 09:56:08,916 INFO    Thread-7  :785 [wandb_setup.py:_flush():79] Inferring run settings from compute environment: {'program': '<python with no main file>'}
+2024-10-28 09:56:08,916 INFO    Thread-7  :785 [wandb_init.py:_log_setup():534] Logging user logs to /home/jovyan/wandb/run-20241028_095608-mo15ib6g/logs/debug.log
+2024-10-28 09:56:08,916 INFO    Thread-7  :785 [wandb_init.py:_log_setup():535] Logging internal logs to /home/jovyan/wandb/run-20241028_095608-mo15ib6g/logs/debug-internal.log
+2024-10-28 09:56:08,916 INFO    Thread-7  :785 [wandb_init.py:init():621] calling init triggers
+2024-10-28 09:56:08,916 INFO    Thread-7  :785 [wandb_init.py:init():628] wandb.init called with sweep_config: {'batch_size': 16, 'epochs': 50, 'learning_rate': 0.01, 'optimizer': 'sgd'}
+config: {}
+2024-10-28 09:56:08,916 INFO    Thread-7  :785 [wandb_init.py:init():671] starting backend
+2024-10-28 09:56:08,916 INFO    Thread-7  :785 [wandb_init.py:init():675] sending inform_init request
+2024-10-28 09:56:08,920 INFO    Thread-7  :785 [backend.py:_multiprocessing_setup():104] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2024-10-28 09:56:08,920 INFO    Thread-7  :785 [wandb_init.py:init():688] backend started and connected
+2024-10-28 09:56:08,933 INFO    Thread-7  :785 [wandb_run.py:_config_callback():1390] config_cb None None {'batch_size': 16, 'epochs': 50, 'learning_rate': 0.01, 'optimizer': 'sgd'}
+2024-10-28 09:56:08,935 INFO    Thread-7  :785 [wandb_run.py:_label_probe_notebook():1342] probe notebook
+2024-10-28 09:56:08,947 INFO    Thread-7  :785 [wandb_init.py:init():783] updated telemetry
+2024-10-28 09:56:08,947 INFO    Thread-7  :785 [wandb_init.py:init():816] communicating run to backend with 90.0 second timeout
+2024-10-28 09:56:09,294 INFO    Thread-7  :785 [wandb_init.py:init():867] starting run threads in backend
+2024-10-28 09:56:09,464 INFO    Thread-7  :785 [wandb_run.py:_console_start():2463] atexit reg
+2024-10-28 09:56:09,464 INFO    Thread-7  :785 [wandb_run.py:_redirect():2311] redirect: wrap_raw
+2024-10-28 09:56:09,464 INFO    Thread-7  :785 [wandb_run.py:_redirect():2376] Wrapping output streams.
+2024-10-28 09:56:09,465 INFO    Thread-7  :785 [wandb_run.py:_redirect():2401] Redirects installed.
+2024-10-28 09:56:09,465 INFO    Thread-7  :785 [wandb_init.py:init():911] run started, returning control to user process
+2024-10-28 10:02:25,022 INFO    MainThread:785 [jupyter.py:save_ipynb():387] not saving jupyter notebook
+2024-10-28 10:02:25,023 INFO    MainThread:785 [wandb_init.py:_pause_backend():445] pausing backend
+2024-10-28 10:02:25,040 INFO    Thread-7  :785 [wandb_run.py:_finish():2158] finishing run gachon-university-fdslab/resnet18/mo15ib6g
+2024-10-28 10:02:25,040 INFO    Thread-7  :785 [wandb_run.py:_atexit_cleanup():2426] got exitcode: 1
+2024-10-28 10:02:25,040 INFO    Thread-7  :785 [wandb_run.py:_restore():2408] restore
+2024-10-28 10:02:25,040 INFO    Thread-7  :785 [wandb_run.py:_restore():2414] restore done
+2024-10-28 10:02:25,380 INFO    MainThread:785 [wandb_init.py:_resume_backend():450] resuming backend
+2024-10-28 10:02:25,462 INFO    MainThread:785 [jupyter.py:save_ipynb():387] not saving jupyter notebook
+2024-10-28 10:02:25,462 INFO    MainThread:785 [wandb_init.py:_pause_backend():445] pausing backend
+2024-10-28 10:02:28,272 INFO    Thread-7  :785 [wandb_run.py:_footer_history_summary_info():3975] rendering history
+2024-10-28 10:02:28,272 INFO    Thread-7  :785 [wandb_run.py:_footer_history_summary_info():4007] rendering summary
+2024-10-28 10:02:28,278 INFO    Thread-7  :785 [wandb_run.py:_footer_sync_info():3934] logging synced files
+2024-10-28 10:02:45,359 INFO    MainThread:785 [wandb_init.py:_resume_backend():450] resuming backend
+2024-10-28 10:02:45,403 INFO    MainThread:785 [jupyter.py:save_ipynb():387] not saving jupyter notebook
+2024-10-28 10:02:45,403 INFO    MainThread:785 [wandb_init.py:_pause_backend():445] pausing backend

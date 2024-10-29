@@ -1,0 +1,47 @@
+/opt/conda/lib/python3.8/site-packages/torchvision/models/_utils.py:208: UserWarning: The parameter 'pretrained' is deprecated since 0.13 and may be removed in the future, please use 'weights' instead.
+  warnings.warn(
+/opt/conda/lib/python3.8/site-packages/torchvision/models/_utils.py:223: UserWarning: Arguments other than a weight enum or `None` for 'weights' are deprecated since 0.13 and may be removed in the future. The current behavior is equivalent to passing `weights=EfficientNet_V2_M_Weights.IMAGENET1K_V1`. You can also use `weights=EfficientNet_V2_M_Weights.DEFAULT` to get the most up-to-date weights.
+  warnings.warn(msg)
+Downloading: "https://download.pytorch.org/models/efficientnet_v2_m-dc08266a.pth" to /home/jovyan/.cache/torch/hub/checkpoints/efficientnet_v2_m-dc08266a.pth
+
+Train Epoch : 0 [0/295]	Loss:  3.904016
+Train Epoch : 0 [10/295]	Loss:  3.871170
+Train Epoch : 0 [20/295]	Loss:  3.782392
+Train Epoch : 0 [30/295]	Loss:  3.890581
+Train Epoch : 0 [40/295]	Loss:  3.772125
+Train Epoch : 0 [50/295]	Loss:  3.768555
+Train Epoch : 0 [60/295]	Loss:  3.740001
+Train Epoch : 0 [70/295]	Loss:  3.738576
+Train Epoch : 0 [80/295]	Loss:  3.626910
+Train Epoch : 0 [90/295]	Loss:  3.568062
+Train Epoch : 0 [100/295]	Loss:  3.536015
+Train Epoch : 0 [110/295]	Loss:  3.419479
+Train Epoch : 0 [120/295]	Loss:  3.554042
+Train Epoch : 0 [130/295]	Loss:  3.412179
+[34m[1mwandb[0m: Ctrl + C detected. Stopping sweep.
+Traceback (most recent call last):
+  File "<ipython-input-11-c15dc2ccadd3>", line 49, in train_and_evaluate
+    train_loss = train(model, train_loader, optimizer, epoch)
+  File "<ipython-input-9-0560fd509f61>", line 6, in train
+    for i, (image, target) in enumerate(train_loader):
+  File "/opt/conda/lib/python3.8/site-packages/torch/utils/data/dataloader.py", line 628, in __next__
+    data = self._next_data()
+  File "/opt/conda/lib/python3.8/site-packages/torch/utils/data/dataloader.py", line 671, in _next_data
+    data = self._dataset_fetcher.fetch(index)  # may raise StopIteration
+  File "/opt/conda/lib/python3.8/site-packages/torch/utils/data/_utils/fetch.py", line 58, in fetch
+    data = [self.dataset[idx] for idx in possibly_batched_index]
+  File "/opt/conda/lib/python3.8/site-packages/torch/utils/data/_utils/fetch.py", line 58, in <listcomp>
+    data = [self.dataset[idx] for idx in possibly_batched_index]
+  File "/opt/conda/lib/python3.8/site-packages/torch/utils/data/dataset.py", line 240, in __getitem__
+    return self.datasets[dataset_idx][sample_idx]
+  File "<ipython-input-3-623b176dce5a>", line 24, in __getitem__
+    img = self.transform(img)
+  File "/opt/conda/lib/python3.8/site-packages/torchvision/transforms/transforms.py", line 95, in __call__
+    img = t(img)
+  File "/opt/conda/lib/python3.8/site-packages/torch/nn/modules/module.py", line 1194, in _call_impl
+    return forward_call(*input, **kwargs)
+  File "/opt/conda/lib/python3.8/site-packages/torchvision/transforms/transforms.py", line 1351, in forward
+    angle = self.get_params(self.degrees)
+  File "/opt/conda/lib/python3.8/site-packages/torchvision/transforms/transforms.py", line 1333, in get_params
+    angle = float(torch.empty(1).uniform_(float(degrees[0]), float(degrees[1])).item())
+Exception

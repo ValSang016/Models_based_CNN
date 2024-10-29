@@ -1,0 +1,27 @@
+Train Epoch : 0 [0/148]	Loss:  4.069055
+Train Epoch : 0 [10/148]	Loss:  3.923494
+Train Epoch : 0 [20/148]	Loss:  4.206474
+Train Epoch : 0 [30/148]	Loss:  4.129817
+Train Epoch : 0 [40/148]	Loss:  4.148136
+Train Epoch : 0 [50/148]	Loss:  4.111498
+Train Epoch : 0 [60/148]	Loss:  4.188323
+Train Epoch : 0 [70/148]	Loss:  3.841141
+Train Epoch : 0 [80/148]	Loss:  4.093532
+Train Epoch : 0 [90/148]	Loss:  3.873890
+Train Epoch : 0 [100/148]	Loss:  4.124829
+Train Epoch : 0 [110/148]	Loss:  4.066699
+Train Epoch : 0 [120/148]	Loss:  4.020761
+Train Epoch : 0 [130/148]	Loss:  4.032949
+Train Epoch : 0 [140/148]	Loss:  4.073379
+Best model saved with accuracy: 2.0270
+[0] Validation Loss: 4.0575, Accuracy: 2.0270
+Train Epoch : 1 [0/148]	Loss:  3.957337
+Train Epoch : 1 [10/148]	Loss:  4.034312
+Train Epoch : 1 [20/148]	Loss:  3.775929
+Num of each dataset: 2360 296 298
+Loaded combined dataloader
+fc.weight
+True
+fc.bias
+True
+Created a learning model and optimizer
