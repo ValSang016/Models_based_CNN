@@ -1,4 +1,5 @@
-Active Learning #2
+## Notion : https://www.notion.so/Basic-Computer-Vision-88d6bb35461442ddbc47719109876840
+## Active Learning #2
 
 1) 학습 Schema를 변환시키는 경우
 1. Idea를 통해 학습 Scheme 변환 (데이터 전처리, 학습에 사용되는 hyperparameter)
